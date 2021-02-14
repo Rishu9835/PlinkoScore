@@ -78,7 +78,7 @@ function draw() {
     background("black");
     fill("red");
     textSize(100);
-    text("Game Over", 200, 400);
+    text("Game Over", 200, 300);
   }
   
   Engine.update(engine);
