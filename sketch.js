@@ -131,6 +131,7 @@ function draw() {
      
      Divisions[k].display();
    }
+ ground.display();
 }
 
 function mousePressed() {
